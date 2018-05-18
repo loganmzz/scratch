@@ -28,3 +28,4 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "http://www.ac-grenoble.fr/ien.chambery4/wp-content/uploads/2016/02/scratchlogo.jpg"
   recent_posts_number = 2
+  mainSections = [ "post" ]
