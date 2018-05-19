@@ -9,3 +9,17 @@ Un projet Scratch peut-être sauvegardé dans son compte mais aussi dans un fich
 ## Ouvrir Scratch
 
 Depuis votre navigateur Internet (Internet Explorer, Edge, Chrome, Firefox, ...), ouvrez l'URL https://scratch.mit.edu/. 
+
+![Scratch - Page d'accueil](scratch-home.png)
+
+## Démarrer un nouveau projet
+
+Cliquez sur "Créer" afin de lancer l'éditeur.
+
+![Scratch - Éditeur](scratch-editor.png)
+
+## Rouvrir un projet
+
+Cliquez sur le menu "Fichier", puis sélectionnez "Importer depuis votre ordinateur".
+
+## Et voilà !
